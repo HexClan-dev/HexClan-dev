@@ -13,7 +13,7 @@ const nailspahija = {
     technologies: {
         mobileApp: ["Flutter App", "React Native"],
         frontEnd: {
-            js: ["React"],
+            js: ["SAP Fiori/UI5", "React"],
             css: ["Material-UI", "bootstrap"]
         },
         backEnd: {
