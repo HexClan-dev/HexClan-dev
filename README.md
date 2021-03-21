@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hello, I am Nail Spahija ! 👋
 
-<!--
-**NailSpahija/NailSpahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230">
 
-Here are some ideas to get you started:
+<p><em>
+Software Engineer / SAP Application Developer at Brizo Consulting GMBH
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const nailspahija = {
+    code: ["SAP ABAP", "Javascript", "Python", "Dart"],
+    askMeAbout: ["Backend-Dev", "Tech", "App-Dev", "AI"],
+    technologies: {
+        mobileApp: ["Flutter App", "React Native"],
+        frontEnd: {
+            js: ["React"],
+            css: ["Material-UI", "bootstrap"]
+        },
+        backEnd: {
+            js: ["Express"],
+            python: ["Django", "Flask"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["Mongo", "MySql", "SAP Hana"],
+        ai: ["Deep Learning Enthusiast"]
+    },
+    architecture: [
+        "Serverless Architecture",
+        "Progressive web application",
+        "Single page applications"],
+    currentFocus: "Comptetive Programming using C"
+};
+
+```
+
+[comment]: <> (```python)
+
+[comment]: <> (#!/usr/bin/python)
+
+[comment]: <> (# -*- coding: utf-8 -*-)
+
+[comment]: <> (class NailSpahija:)
+
+[comment]: <> (```)
