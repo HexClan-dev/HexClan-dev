@@ -8,18 +8,18 @@ Software Engineer/ at Brizo Consulting GMBH
 
 ```javascript
 const nailspahija = {
-    code: ["SAP ABAP", "Javascript", "Python"],
+    code: ["SAP ABAP", "Javascript", "Python", "C#"],
     askMeAbout: ["SAP ABAP", "Full-Stack Dev", "AI"],
     technologies: {
-        mobileApp: ["React Native"],
         frontEnd: {
             js: ["SAP Fiori/UI5", "React"],
             css: ["Material-UI", "Bootstrap"]
         },
         backEnd: {
             js: ["Express"],
-            python: ["Django", "Flask"]
-        },
+            python: ["Django"],
+            'C#' : [".NET Framework"]
+        }, 
         devOps: ["Docker🐳", "Nginx"],
         databases: ["Mongo", "MySql", "SAP Hana"],
         ai: ["Deep Learning Enthusiast"]
