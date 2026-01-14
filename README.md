@@ -18,7 +18,7 @@ const nailspahija = {
         backEnd: {
             Js: ["Express"],
             Python: ["Django"],
-            'SAP': ["ABAP", "CDS Views", "RAP", "BTP", "CAP"],
+            SAP: ["ABAP", "CDS Views", "RAP", "BTP", "CAP"],
             
         }, 
         devOps: ["Docker🐳", "Kyma"],
